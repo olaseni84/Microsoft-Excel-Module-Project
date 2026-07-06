@@ -3,7 +3,7 @@
 
 
 \## Overview
-
+![Excel Dashboard Screenshot](images/trendora_dashboard_Olaseni_kamorudeen_Lawal.png)
 This project is an Excel-based analysis and dashboard built on the Trendora shopping dataset, completed as part of the Torilo Academy Data Analysis Program. It demonstrates core Excel skills — from data cleaning to formulas to interactive dashboard design.
 
 
